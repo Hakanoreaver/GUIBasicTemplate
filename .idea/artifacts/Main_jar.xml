@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Main_jar</output-path>
+    <root id="archive" name="GUIBasicTemplate.jar">
+      <element id="module-output" name="GUIBasicTemplate" />
+    </root>
+  </artifact>
+</component>

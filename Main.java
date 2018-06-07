@@ -1,3 +1,4 @@
+
 import javax.swing.*;
 import java.awt.EventQueue;
 
@@ -17,7 +18,7 @@ public class Main extends JFrame{
         setSize(400, 300);
         setResizable(false);
 
-        setTitle("Shooting missiles");
+        setTitle("Display a White Circle");
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     }
